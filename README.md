@@ -1,7 +1,3 @@
----
-typora-root-url: res
----
-
 # Menu_Event_C_Code
 一个基于小型单片机的菜单事件驱动框架，适用于按键与UI界面交互的应用场景
 
@@ -24,8 +20,3 @@ typora-root-url: res
   ![Image text](https://github.com/Yangyuanxin/Resource/blob/main/Menu_Event_C_Code/9.jpg)
 
   ![Image text](https://github.com/Yangyuanxin/Resource/blob/main/Menu_Event_C_Code/10.jpg)
-
-
-
-
-
